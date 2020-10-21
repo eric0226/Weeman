@@ -11,3 +11,4 @@
    *Termux (tested)
 
 # Installation
+   $ apt update && apt upgrade
