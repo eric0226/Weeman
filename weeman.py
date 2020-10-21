@@ -1,3 +1,5 @@
+## Written by CireCode
+
 import sys
 import optparse
 from core.misc import printt
